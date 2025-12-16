@@ -33,7 +33,9 @@ This is my **2nd Unity project** created while learning game development from sc
 | **Turn Left/Right** | `A` / `D` or `Left` / `Right` |
 
 ## 📸 Screenshots
-*(You can add screenshots of your truck and plane scenes here later)*
+<img width="1535" height="873" alt="Screenshot 2025-12-16 141449" src="https://github.com/user-attachments/assets/9ecd156b-405e-486c-803c-a4685f2e492a" />
+<img width="1540" height="875" alt="Screenshot 2025-12-16 141529" src="https://github.com/user-attachments/assets/cc2da323-2a8d-40ed-a014-877c08234bba" />
+
 
 ## 📝 Learning Journey
 As a beginner in Unity, this project helped me solidify the basics of object manipulation in 3D space. I am currently building my portfolio by creating projects from scratch and documenting my progress.
