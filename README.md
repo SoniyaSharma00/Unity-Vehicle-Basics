@@ -41,4 +41,4 @@ This is my **2nd Unity project** created while learning game development from sc
 As a beginner in Unity, this project helped me solidify the basics of object manipulation in 3D space. I am currently building my portfolio by creating projects from scratch and documenting my progress.
 
 ---
-*Created by [Your Name]*
+*Created by [Soniya Sharma]*
